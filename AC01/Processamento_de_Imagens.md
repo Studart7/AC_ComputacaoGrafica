@@ -24,6 +24,7 @@ Processamento de Imagens trata da **manipulação de imagens digitais** para mel
 - Photoshop
 
 ## ▶️ Exemplo de Código
+https://github.com/OlafenwaMoses/ImageAI
 Aplicar filtro de desfoque e detector de bordas com OpenCV:
 ```python
 import cv2
