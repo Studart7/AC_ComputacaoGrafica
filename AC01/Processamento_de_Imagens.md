@@ -1,6 +1,4 @@
 
-### 2. Processamento de Imagens
-
 # Processamento de Imagens
 
 ##  Definição

@@ -1,8 +1,4 @@
 
-
-### 3. Visão Computacional (ou Visão Artificial)
-
-
 # Visão Computacional
 
 ##  Definição

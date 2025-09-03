@@ -1,8 +1,4 @@
 
-
-
-### 4. Visualização Computacional
-
 # Visualização Computacional
 
 ##  Definição
