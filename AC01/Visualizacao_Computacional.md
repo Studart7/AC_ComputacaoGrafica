@@ -1,9 +1,8 @@
 
----
+
 
 ### 4. Visualização Computacional
 
-```markdown
 # Visualização Computacional
 
 ##  Definição

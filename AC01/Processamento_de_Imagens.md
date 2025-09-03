@@ -1,9 +1,6 @@
 
----
-
 ### 2. Processamento de Imagens
 
-```markdown
 # Processamento de Imagens
 
 ##  Definição

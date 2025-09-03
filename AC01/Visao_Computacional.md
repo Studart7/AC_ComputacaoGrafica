@@ -1,9 +1,8 @@
 
----
 
 ### 3. Visão Computacional (ou Visão Artificial)
 
-```markdown
+
 # Visão Computacional
 
 ##  Definição
