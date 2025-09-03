@@ -21,6 +21,7 @@ Processamento de Imagens trata da **manipulação de imagens digitais** para mel
 - PIL (Python Imaging Library)
 - scikit-image
 - MATLAB (Image Processing Toolbox)
+- Photoshop
 
 ## ▶️ Exemplo de Código
 Aplicar filtro de desfoque e detector de bordas com OpenCV:
